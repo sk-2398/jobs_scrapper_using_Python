@@ -1,6 +1,4 @@
-echo "# Job Listing Scraper
-
-This project contains a Python script to scrape job listings from Working Nomads.
+# This project contains a Python script to scrape job listings from Working Nomads.
 
 ## Description
 
